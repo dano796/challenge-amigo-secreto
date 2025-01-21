@@ -29,9 +29,12 @@ Este proyecto consiste en una aplicación interactiva que permite a los usuarios
 
 3. **Interacción con la aplicación:**
    - Escribe un nombre en el campo de texto y haz clic en "Añadir" para agregarlo a la lista.
+
    ![Añadir amigo](screenshots/agregar-amigo.png)
+
    - Haz clic en "Sortear Amigo" para seleccionar aleatoriamente un nombre de la lista.
-   ![Añadir amigo](screenshots/sortear-amigo.png.png)
+
+   ![Añadir amigo](screenshots/sortear-amigo.png)
 
 ## Estructura del Proyecto
 
@@ -56,5 +59,7 @@ function agregarAmigo() {
 ---
 
 Practicando Lógica de Programación: Challenge Amigo Secreto
-Challenge de la Formación Principianre en Programación G8-ONE
+
+Challenge de la Formación Principiante en Programación G8-ONE
+
 Daniel Ortiz Aristizábal
