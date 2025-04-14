@@ -2,6 +2,8 @@
 
 Este proyecto consiste en una aplicación interactiva que permite a los usuarios gestionar una lista de nombres de amigos y realizar un sorteo aleatorio para determinar quién será el "amigo secreto". El objetivo principal es fortalecer habilidades en lógica de programación mientras se crea una experiencia sencilla y funcional.
 
+<br>
+
 ## Funcionalidades
 
 - **Agregar nombres:** Los usuarios pueden escribir el nombre de un amigo en un campo de texto y agregarlo a una lista visible haciendo clic en el botón "Añadir".
@@ -9,11 +11,15 @@ Este proyecto consiste en una aplicación interactiva que permite a los usuarios
 - **Visualizar la lista:** Los nombres ingresados aparecerán en una lista debajo del campo de entrada.
 - **Sorteo aleatorio:** Al hacer clic en el botón "Sortear Amigo", se seleccionará de forma aleatoria un nombre de la lista y se mostrará el resultado en pantalla.
 
+<br>
+
 ## Tecnologías Utilizadas
 
 - **HTML:** Para la estructura del proyecto.
 - **CSS:** Para el diseño visual.
 - **JavaScript:** Para la lógica interactiva del proyecto.
+
+<br>
 
 ## Instalación y Uso
 
@@ -36,11 +42,15 @@ Este proyecto consiste en una aplicación interactiva que permite a los usuarios
 
    ![Añadir amigo](screenshots/sortear-amigo.png)
 
+<br>
+
 ## Estructura del Proyecto
 
 - `index.html`: Contiene la estructura principal de la página.
 - `styles.css`: Define los estilos visuales.
 - `script.js`: Contiene toda la lógica de programación, incluyendo validación, gestión de la lista y sorteo.
+
+<br>
 
 ## Ejemplo de Código
 
