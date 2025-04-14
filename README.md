@@ -1,4 +1,4 @@
-# Amigo Secreto
+# 🤗 Challenge Amigo Secreto
 
 Este proyecto consiste en una aplicación interactiva que permite a los usuarios gestionar una lista de nombres de amigos y realizar un sorteo aleatorio para determinar quién será el "amigo secreto". El objetivo principal es fortalecer habilidades en lógica de programación mientras se crea una experiencia sencilla y funcional.
 
