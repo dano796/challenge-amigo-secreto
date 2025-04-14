@@ -68,8 +68,8 @@ function agregarAmigo() {
 
 ---
 
-Practicando Lógica de Programación: Challenge Amigo Secreto
+### Practicando Lógica de Programación: Challenge Amigo Secreto
 
-Challenge de la Formación Principiante en Programación G8-ONE
+### Challenge de la Formación Principiante en Programación G8-ONE
 
-Daniel Ortiz Aristizábal
+### Daniel Ortiz Aristizábal
